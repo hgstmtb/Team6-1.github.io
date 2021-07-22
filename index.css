@@ -20,6 +20,11 @@ header {
 h1 {
    margin: 0; padding: 0;
    font-size: 20px;
+   
+}
+font {
+   margin: 0; padding: 0;
+   
 }
 a {	
    text-decoration: none;
