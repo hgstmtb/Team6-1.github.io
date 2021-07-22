@@ -19,11 +19,16 @@ header {
 }
 h1 {
    margin: 0; padding: 0;
-   font-size: 20px;
+   font-size: 40px;
+   
+}
+font {
+   margin: 0; padding: 0;
+   
 }
 a {	
    text-decoration: none;
-   color: #fff;
+   color: #000000;
 }
 nav {
    margin: 0 0 0 auto;
@@ -48,5 +53,5 @@ h2 {
    margin: 0;
    font-size: 30px;
    font-weight: normal;
-   color: #fff;
+   color: #000000;
 }
